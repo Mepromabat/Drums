@@ -18,7 +18,7 @@ body {
 }
 
 h1 {
-  font-size: 10rem;
+  font-size: 6rem;
   color: #000d11;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #c70909;
@@ -79,7 +79,7 @@ background-image: url(images/crash.png);
 .drum {
   outline: none;
   border: 10px solid #b3620d;
-  font-size: 5rem;
+  font-size: 4rem;
   font-family: 'Arvo', cursive;
   line-height: 2;
   font-weight: 900;
